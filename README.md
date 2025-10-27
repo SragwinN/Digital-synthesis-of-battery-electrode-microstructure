@@ -1,6 +1,6 @@
 # Digital-synthesis-of-battery-electrode-microstructure
 
-This repository includes all the code implementations from my research on **data-driven microstructure generation and inverse modeling** for lithium-ion battery electrodes.
+This repository includes all the code implementations developed during my work as a Research Assistant at Northern Illinois University, focused on data-driven microstructure generation and inverse modeling for lithium-ion battery electrodes.
 
 
 It integrates three key components:
